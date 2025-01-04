@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Lato } from "next/font/google";
 
 const lato = Lato({

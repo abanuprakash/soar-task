@@ -97,6 +97,8 @@ This project follows the **Gitflow Workflow**:
 
 1. **`master`**: The production-ready branch. Contains stable code.
 2. **`dev`**: The development branch. All features and bug fixes are merged here.
+2. **`qa`**: Used for quality assurance testing.
+2. **`staging`**: Mirrors master but allows final testing before production..
 3. **Feature Branches**: For specific tasks or features (e.g., `feature/button-component`).
 4. **Bugfix Branches**: For hotfixes or bug fixes (e.g., `bugfix/issue-123`).
 5. **Release Branches**: For preparing a new production release (e.g., `release/v1.0.0`).
